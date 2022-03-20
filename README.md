@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I am Payas Singh Nikhurpa 👋
 
-<!--
-**MagnuS-Taken/MagnuS-Taken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a ECE student at [Delhi Technological University](http://www.dtu.ac.in/Web/About/history.php) and a Software Engineer.
 
-Here are some ideas to get you started:
+I love the world of coding. I know my fair share of languages, Java and JS are the one's I use the most, trying to do more of Golang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</p>
+
+### ☕ Get in touch
+
+-   LinkedIn: [@Payas Singh Nikhurpa](https://www.linkedin.com/in/payas-singh-nikhurpa/)
+-   My Site: https://magnus-taken.github.io/Payas-Singh-Nikhurpa/
